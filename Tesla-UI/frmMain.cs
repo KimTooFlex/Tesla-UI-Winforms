@@ -104,6 +104,7 @@ namespace Tesla_UI
 
         private void FrmMain_Shown(object sender, EventArgs e)
         {
+            //push
             Random r = new Random();
             for (int i = 0; i < 7; i++)
             {
